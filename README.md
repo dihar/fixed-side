@@ -26,6 +26,7 @@ bower i fixed-side -S
 		</fixed-side>
 	</div>
 	```
-`top` — distanse to window top at which container scrolls 
 
-`bottom` — distanse to window bottom at which container stops to scroll 
+	`top` — distanse to window top at which container scrolls 
+
+	`bottom` — distanse to window bottom at which container stops to scroll 
