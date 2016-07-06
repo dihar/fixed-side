@@ -1,5 +1,19 @@
 {
   "name": "fixed-side",
+  "version": "1.0.0",
+  "authors": [
+    "Kharin Dmitriy dihar <diharin@gmail.com>"
+  ],
+  "keywords": [
+    "fixed",
+    "side",
+    "fixed menu",
+    "affix",
+    "dihar",
+    "web-components",
+    "polymer",
+    "lms"
+  ],
   "description": "allows create affix effect side",
   "main": "fixed-side.html",
   "dependencies": {
